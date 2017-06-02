@@ -11,4 +11,4 @@ Pressing ESC will close the program.
 
 [[http://github.com/Tcip/ahk_mom/tree/master/mom-PrintScreen/mom-PrintScreen.jpg]]
 
-[[https://github.com/Tcip/ahk_mom/tree/master/mom-PrintScreen/mom-PrintScreen.jpg]]
+[https://github.com/Tcip/ahk_mom/tree/master/mom-PrintScreen/mom-PrintScreen.jpg]

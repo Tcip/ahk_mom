@@ -7,4 +7,4 @@ Pressing ESC will close the program.
 
 **Note: Swedish "help"  text**
 
-[[https://github.com/Tcip/ahk_mom/tree/master/mom-PrintScreen/mom-PrintScreen2.jpg|alt=test]]
+[Picture] (https://github.com/Tcip/ahk_mom/tree/master/mom-PrintScreen/mom-PrintScreen2.jpg)
